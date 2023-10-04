@@ -1,0 +1,44 @@
+{
+  
+  "dependencies": {
+  
+    
+  "argv": "^0.0.3",
+  
+    
+  "nanoid": "^5.0.1",
+  
+    
+  "nodemon": "^3.0.1",
+  
+    
+  "pkg": "^5.8.1"
+  
+  },
+  
+  "name": "js",
+  
+  "description": "",
+  
+  "version": "1.0.0",
+  
+  "main": "index.js",
+  
+  "devDependencies": {
+  
+    
+  "prettier": "^3.0.3"
+  
+  },
+  
+  "scripts": {
+  
+    
+  "start": "node index.js"
+  
+  },
+  
+  "author": "",
+  
+  "license": "ISC"
+}
